@@ -1,0 +1,6 @@
+numpy==1.25.0
+streamlit==1.22.0
+pytesseract==0.3.13
+opencv-python==4.11.0.86
+pillow==10.4.0
+matplotlib==3.10.1

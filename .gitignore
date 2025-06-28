@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/
+
+# Outputs prediction
+output/
+
+# Byte-compiled
+src/__pycache__/

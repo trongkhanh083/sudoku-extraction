@@ -1,0 +1,16 @@
+# configs/default.yaml
+
+# input directory
+raw_dir: data/raw
+
+# output directories
+output:
+  edged_dir: "output/edged"
+  warped_dir: "output/warped"
+  sudoku_grid_dir: "output/sudoku_grid"
+
+# processing parameters
+params:
+  edge_threshold1: 50
+  edge_threshold2: 150
+  warp_size: 450
