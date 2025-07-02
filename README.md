@@ -1,17 +1,17 @@
 # 🧊 Sudoku Extraction
 
-A computer vision application that extracts Sudoku puzzles from images and solves them using OCR and backtracking algorithms.
+A computer vision application that extracts Sudoku puzzles from images and solves them using OCR.
 
 ---
 
 ## 🚀 Features
-
 - Extracts Sudoku grid from images using OpenCV
 - Recognizes digits using Tesseract OCR
 - Solves puzzles using backtracking algorithm
 - Web interface via Streamlit
 
 ## ⚙️ Installation
+- Python 3.10+
    ```bash
    git clone https://github.com/trongkhanh083/sudoku-extraction.git
    cd sudoku-extraction
