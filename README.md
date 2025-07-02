@@ -1,6 +1,6 @@
 # 🧊 Sudoku Extraction
 
-A computer vision application that extracts Sudoku puzzles from images and solves them using OCR.
+A computer vision application that detects Sudoku puzzles from images and extracts them using Tesseract OCR.
 
 ---
 
